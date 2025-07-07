@@ -1,3 +1,3 @@
-fsname=input("enter your name")
+fsname=input("enter your first name")
 lname=input("enter your last name")
-print("your name is",fsname,lname)
+print(f"hello {fsname} {lname} welcome to python program")
